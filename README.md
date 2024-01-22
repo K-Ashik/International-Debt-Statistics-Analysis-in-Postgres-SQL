@@ -8,12 +8,12 @@ What is the average amount of debt owed by countries across different debt indic
 
 In the Analyze International Debt Statistics project, I have written SQL queries to explore and analyze international debt using the World Bank dataset. SQL is the most popular and essential tool for performing data analytics on the go. 
 
-In the project, you will be finding the:
+In the project, you will find the:
 
-Distinct countries
-Distinct debt indicators
-Total amount of debt owed by the countries
-Country with the highest debt
-Average amount of debt across indicators
-The highest amount of principal repayments
-The most common debt indicator
+- Distinct countries
+- Distinct debt indicators
+- Total amount of debt owed by the countries
+- Country with the highest debt
+- Average amount of debt across indicators
+- The highest amount of principal repayments
+- The most common debt indicator
